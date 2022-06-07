@@ -1,2 +1,2 @@
 # my-contacts-reactjs
-Created with CodeSandbox
+Creating React UI using components and props.
