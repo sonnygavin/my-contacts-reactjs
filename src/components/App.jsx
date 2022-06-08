@@ -7,7 +7,7 @@ function createCard(contact) {
   return (
     <Card
       key={contacts.id}
-      id={contacts.id}
+      id={contact.id}
       name={contact.name}
       img={contact.imgURL}
       tel={contact.phone}
